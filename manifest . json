@@ -1,0 +1,20 @@
+{
+  "name": "PROXYMILLY",
+  "short_name": "PROXYMILLY",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#d4af37",
+  "icons": [
+    {
+      "src": "proxymilly-tracksuit.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "proxymilly-tracksuit.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
